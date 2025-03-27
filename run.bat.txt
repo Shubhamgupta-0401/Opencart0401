@@ -1,0 +1,2 @@
+ cd C:\java workspace\seleniumwebdriver\Opencart0401
+ mvn test
